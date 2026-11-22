@@ -160,7 +160,7 @@ Vesper 是一款面向经典 Windows 桌面环境开发的 DeepSeek API 客户�
 
 |:---|:---|
 
-| Windows XP SP3 | 主要目标平台 |
+| Windows XP SP3 / Windows Vista| 主要目标平台 |
 
 | Windows NT 5.0 系列 | 后续适配计划 |
 
@@ -186,7 +186,7 @@ Vesper 是一款面向经典 Windows 桌面环境开发的 DeepSeek API 客户�
 
 ## 项目源代码
 
-目前项目源代码暂不公开。
+目前项目源代码仅公开RC1。
 
 当前 GitHub 仓库主要用于发布项目介绍、版本记录及安装程序。
 
