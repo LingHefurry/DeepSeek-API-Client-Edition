@@ -1,6 +1,6 @@
-# DeepSeek-API-Client-Edition-
+# DeepSeek-API-Client-Edition
 DeepSeek API Client Edition for Legacy Systems
-# Vesper
+# D.S.C.E
 
 > D.S.C.E.面向经典 Windows 系统的 DeepSeek API 桌面客户端。
 
@@ -14,13 +14,13 @@ DeepSeek API Client Edition for Legacy Systems
 
 |:---|:---|
 
-| 软件名称 | DeepSeek-API-Client-Edition- |
+| 软件名称 | DeepSeek-API-Client-Edition |
 
 | 软件类型 | DeepSeek API 客户端 |
 
 | 当前版本 | **0.10.0 RC1** |
 
-| 内部版本编号 | `build xxxxxx-syzygy ` |
+| 内部版本编号 | `build xxxxxx-zzyy ` |
 
 | 发布阶段 | Release Candidate 1 |
 
