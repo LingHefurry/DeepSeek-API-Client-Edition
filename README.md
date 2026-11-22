@@ -204,6 +204,6 @@ DeepSeek 名称及相关商标归其各自所有者所有。
 
 *For the classic Windows desktop.*
 
-**Version 0.5.0 Preview**
+
 
 </p>
